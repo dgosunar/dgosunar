@@ -1,7 +1,10 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hi there 👋</h1>
 <a href="">
 <img src="MyBanner.png">
 </a>
+</div>
+
 <!--
 **dgosunar/dgosunar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
