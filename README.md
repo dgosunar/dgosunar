@@ -1,5 +1,4 @@
 <div align="center">
-<h1 align="center">Hi there 👋</h1>
 <a href="">
 <img src="MyBanner.png">
 </a>
